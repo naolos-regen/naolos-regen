@@ -4,10 +4,6 @@ I'm just going to share :)
 https://grugbrain.dev/ 
 https://suckless.org/philosophy/
 https://penger.city/
-
-My code is free2use, but if it breaks your machine I'm not the one to blame :)
-
-
 ```bash
                                         @@@@@@                                
                               @@@@@@@@@@=-@@@@@@@@@                           
