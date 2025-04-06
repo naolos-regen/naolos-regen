@@ -1,9 +1,13 @@
-# naolos-regen
+# Hi :)
 
-I'm just going to share :) 
-https://grugbrain.dev/ 
-https://suckless.org/philosophy/
-https://penger.city/
+naolos-regen is my github name, but I go by naolos.
+
+## Objectives (I do go harsh on myself ngl)
+---
+- Low level Programming
+- Embeded Programming
+- Cybersecurity
+
 ```bash
                                         @@@@@@                                
                               @@@@@@@@@@=-@@@@@@@@@                           
