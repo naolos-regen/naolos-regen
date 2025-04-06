@@ -1,6 +1,9 @@
 # Hi :)
 
-naolos-regen is my github name, but I go by naolos.
+## Exp
+---
+- Self-taught C/C++ 
+- School/Apprenticeship in Java (Overall Web Developement)
 
 ## Objectives (I do go harsh on myself ngl)
 ---
