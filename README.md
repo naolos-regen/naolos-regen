@@ -5,7 +5,7 @@ naolos-regen is my github name, but I go by naolos.
 ## Objectives (I do go harsh on myself ngl)
 ---
 - Low level Programming
-- Embeded Programming
+- Embedded Programming
 - Cybersecurity
 
 ```bash
