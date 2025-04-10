@@ -7,7 +7,7 @@
 
 ## Objectives (I do go harsh on myself ngl)
 ---
-- Ada Programming Language
+- Ada Programming Language (When dependency hell will get fixed)
 - Low level Programming
 - Embedded Programming
 - Cybersecurity
